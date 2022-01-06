@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Dakshina527"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaveesha sanduni" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14816490/dakshina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackOverFlow" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tharindu-dakshina-21121b225" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tharindudakshina.dakshina" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tharindu Dakshina" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tharindudakshina.dakshina" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FaceBook" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCbvzSU2PG2m_y5ie8tDAkmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 
 - 😄 Pronouns: he/him/his
 
@@ -38,10 +40,11 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="40" height="40"/></a>
+
 
 <br><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=TharinduDakshina&show_icons=true&theme=gotham" alt="TharinduDakshina | Stats" />
-
-[comment]: <> (<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduDakshina&langs_count=5&theme=gotham" alt="TharinduDakshina | My GitHub Language Stats" />)
+<a href=""><img alt="Tharindu Dakshina's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduDakshina&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharinduDakshina&theme=monokai)
