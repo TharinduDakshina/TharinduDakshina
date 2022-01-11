@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TharinduDakshina" alt="TharinduDakshina" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashindipaulusha99" alt="rashindipaulusha99" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TharinduDakshina" alt="dakshina" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
