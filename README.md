@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TharinduDakshina" alt="TharinduDakshina" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TharinduDakshina" alt="dakshina" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +22,8 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/14816490/dakshina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackOverFlow" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tharindu-dakshina-21121b225" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tharindudakshina.dakshina" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FaceBook" height="30" width="40" /></a>
+
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TharinduDakshina" alt="dakshina" /></a> </p>
 
 
 - 😄 Pronouns: he/him/his
