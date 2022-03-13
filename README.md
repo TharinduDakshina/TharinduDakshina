@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-<img src="https://img.shields.io/static/TharinduDakshina"> <img src="https://badges.pufler.dev/visits/M4cs/M4cs"> <img src="https://badges.pufler.dev/years/M2cs"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=TharinduDakshina&label=Profile%20views&color=0e75b6&style=flat" alt="TharinduDakshina" /> </p>
+<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"><img src="https://badges.pufler.dev/visits/M4cs/M4cs"> <img src="https://badges.pufler.dev/years/M2cs"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=TharinduDakshina&label=Profile%20views&color=0e75b6&style=flat" alt="TharinduDakshina" /> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TharinduDakshina" alt="TharinduDakshina" /></a> </p>
