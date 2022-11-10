@@ -12,8 +12,7 @@ Here are some ideas to get you started:
   -->
 
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
-<img src="https://badges.pufler.dev/visits/M4cs/M4cs"> 
-<img src="https://badges.pufler.dev/years/M2cs"> <p align="left"> 
+
 
 
 
