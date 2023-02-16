@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Tharindu+Dakshina;UCSC-+%F0%9F%91%8B%2C+University+Of+Colombo+School+Of+Computing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Tharindu+Dakshina;UCSC-+University+Of+Colombo+School+Of+Computing)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
